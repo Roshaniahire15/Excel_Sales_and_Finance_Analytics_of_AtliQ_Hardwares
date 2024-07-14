@@ -1,6 +1,5 @@
 # Excel_Sales_and_Finance_Analytics_of_AtliQ_Hardwares
 
-# Excel-Sales-Analytics
 # Sales Report
 
 ## Project Objectives
